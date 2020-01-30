@@ -1,0 +1,1 @@
+python generate_tfrecord.py --label=sek --csv_input=E:\TensorFlow\workspace\training_demo\annotations\train_labels.csv --output_path=E:\TensorFlow\workspace\training_demo\annotations\train.recod --img_path=E:\TensorFlow\workspace\training_demo\images\train
